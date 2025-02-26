@@ -10,6 +10,6 @@ package inotia;
  */
 public class Map {
     public static void main(String[] args) {
-        System.out.println("John!");
+        System.out.println("ARN!");
     }
 }
